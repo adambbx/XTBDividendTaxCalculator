@@ -1,0 +1,6 @@
+fire
+pandas
+pytest
+pytest-mock
+requests
+requests-mock
